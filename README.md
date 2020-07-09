@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-you can found more about me on [🐦 twitter](http://twitter.com/victoor) or on [my site 🇪🇸](http://victorfalcon.es).
+find me on [🐦 twitter](http://twitter.com/victoor) or on [my site 🇪🇸](http://victorfalcon.es).
 <!--
 **victor-falcon/victor-falcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
