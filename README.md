@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Víctor</h1>
 <h3>A passionate developer from Madrid, Spain.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-falcon&label=Profile%20views&color=0e75b6&style=flat" alt="victor-falcon" /> </p>
+<p align="left" style="display:none"> <img src="https://komarev.com/ghpvc/?username=victor-falcon&label=Profile%20views&color=0e75b6&style=flat" alt="victor-falcon" /> </p>
 
 - 🔭 I’m currently working on <a href="https://wallbox.com" target="blank">Wallbox]</a>
 
