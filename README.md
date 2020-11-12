@@ -3,7 +3,7 @@
 
 <p align="left" style="display:none"> <img src="https://komarev.com/ghpvc/?username=victor-falcon&label=Profile%20views&color=0e75b6&style=flat" alt="victor-falcon" /> </p>
 
-- 🔭 I’m currently working on <a href="https://wallbox.com" target="blank">Wallbox]</a>
+- 🔭 I’m currently working on <a href="https://wallbox.com" target="blank">Wallbox</a>
 
 - 🌱 I’m currently learning **ML and python**
 
