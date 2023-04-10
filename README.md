@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Víctor</h1>
 <h3>A passionate developer from Madrid, Spain.</h3>
 
-- 📝 I write articles in spanish 🇪🇸 on [victorfalcon.es](https://victorfalcon.es) and in english 🇬🇧 on [dev.to](https://dev.to/victoor)
-- 📫 You can reach me on **hi@victorfalcon.es** or on <a href="https://twitter.com/victoor" target="blank">twitter</a>
+📫 You can reach me on **hi@victorfalcon.es** or on <a href="https://twitter.com/victoor" target="blank">twitter</a>
